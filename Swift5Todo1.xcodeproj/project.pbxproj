@@ -12,6 +12,7 @@
 		1786056F2248F6B200D23EAF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1786056D2248F6B200D23EAF /* Main.storyboard */; };
 		178605712248F6B600D23EAF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 178605702248F6B600D23EAF /* Assets.xcassets */; };
 		178605742248F6B600D23EAF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 178605722248F6B600D23EAF /* LaunchScreen.storyboard */; };
+		1786057C2248FA9F00D23EAF /* addViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1786057B2248FA9F00D23EAF /* addViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		178605702248F6B600D23EAF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		178605732248F6B600D23EAF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		178605752248F6B600D23EAF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1786057B2248FA9F00D23EAF /* addViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = addViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				178605702248F6B600D23EAF /* Assets.xcassets */,
 				178605722248F6B600D23EAF /* LaunchScreen.storyboard */,
 				178605752248F6B600D23EAF /* Info.plist */,
+				1786057B2248FA9F00D23EAF /* addViewController.swift */,
 			);
 			path = Swift5Todo1;
 			sourceTree = "<group>";
@@ -136,6 +139,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1786056C2248F6B200D23EAF /* ViewController.swift in Sources */,
+				1786057C2248FA9F00D23EAF /* addViewController.swift in Sources */,
 				1786056A2248F6B200D23EAF /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
